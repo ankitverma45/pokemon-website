@@ -8,7 +8,7 @@ const App=()=>{
     <BrowserRouter>
     <Routes>
       <Route >
-      <Route path="/" element={<Menu />} />
+      <Route path="/pokemon-website" element={<Menu />} />
         <Route path="single" element={<SingleItem />} />
       </Route>
     </Routes>
