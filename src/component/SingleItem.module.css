@@ -1,0 +1,16 @@
+.contain{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 2rem;
+}
+.contain img{
+    width: 10rem;
+    height: 10rem;
+}
+.weight{
+    font-size: 1.5rem;
+    display: flex;
+    column-gap: 2rem;
+}
